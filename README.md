@@ -87,4 +87,4 @@ npm run dev
 ---
 
 ## 📝 Author
-Created with ❤️ by **Antigravity AI** for project demonstration.
+Created with ❤️ by **Er Munna Kumar** for project demonstration.
